@@ -1,0 +1,13 @@
+@import 'var';
+
+
+.btn-dark {
+    display: flex;
+    padding: 28px 39px 29px 39px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 16px;
+    background: #274C5B; 
+}
